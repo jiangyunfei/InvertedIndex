@@ -2,6 +2,8 @@
 jiangyunfei93@gmail.com
 
 
+![Framework](Inverted_Index_ch.png)
+
 ##读取数据：DATA_path,DICT_path,STOPWORDS_path
   + DATA_path:检索文件放置的文件夹
   + DICT_path:中文字典文件（取自jieba）
