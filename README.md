@@ -1,4 +1,4 @@
-# InvertedIndex v1.0
+# InvertedIndex v0.1.0
 jiangyunfei93@gmail.com
 
 
