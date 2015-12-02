@@ -5,6 +5,7 @@ import string
 import re
 
 
+
 class InvertedIndex:
     def __init__(self,DATA_path, DICT_path, SW_path):
         #Get raw data

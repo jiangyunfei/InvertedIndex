@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="3ec6d4e8-f59e-4599-9c4f-b91c7c88e198" name="GeForce-PC" url="http://10.107.4.79">
+        <fileTransfer host="10.107.4.79" port="22" accessType="SFTP" username="mitc">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
